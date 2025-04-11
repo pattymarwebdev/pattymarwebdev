@@ -1,4 +1,8 @@
-<h1 align="center">👩‍💻 Patrícia Marciano Ferreira</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<h1 align="center">Patrícia Marciano Ferreira</h1>
 
 <p align="center">
 Desenvolvedora Front-end com base Full Stack • Foco em interfaces modernas, acessíveis e com propósito 💡  
@@ -58,3 +62,17 @@ Criei este espaço para compartilhar meus projetos, estudos e contribuições no
 
 <p align="center"><em>“Código com propósito, design com alma.”</em></p>
 <p align="center">✨ Desenvolvido com carinho por Patrícia Ferreira ✨</p>
+
+---
+
+
+## 🌟 Estatísticas do GitHub
+
+<div align="center">
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pattymarwebdev&layout=compact&theme=ayu-mirage&langs_count=6&hide=html)
+
+</div>
+
+---
+
