@@ -55,7 +55,7 @@ Criei este espaço para compartilhar meus projetos, estudos e contribuições no
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pattymarwebdev)
 - 📧 [E-mail](mailto:pattywebdesigner@gmail.com)
-- 🌐 [Portfólio](https://pattymarwebdev.github.io/portfolio)
+- 🌐 [Portfólio](https://patriciamarpaulino.github.io/PortfolioPatricia/)
 
 ---
 
