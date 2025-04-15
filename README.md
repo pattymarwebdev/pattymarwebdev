@@ -5,16 +5,31 @@
 <h1 align="center">Patrícia Marciano Ferreira</h1>
 
 <p align="center">
-Desenvolvedora Front-end com base Full Stack • Foco em interfaces modernas, acessíveis e com propósito 💡  
+Desenvolvedora Front-end em formação Full Stack • Crio interfaces bonitas, acessíveis e pensadas para pessoas reais.💡  
 Uberlândia/MG • 🇧🇷  
 </p>
 
 ---
 
-## ✨ Sobre mim
+## 👩‍💻 Sobre mim
 
-Sou apaixonada por tecnologia com propósito e experiências digitais que conectam. Minha base é Full Stack, mas é no Front-end que coloco minha essência: design limpo, estrutura clara e usabilidade em primeiro lugar.  
-Criei este espaço para compartilhar meus projetos, estudos e contribuições no universo da programação.
+Sou uma profissional apaixonada por tecnologia, com trajetória iniciada no design visual de interfaces e expandida para o desenvolvimento full stack. Estou em formação pelo DevClub com o Rodolfo Mori, já com o Front-end concluído e atualmente cursando o Back-end, o que me permite entregar soluções completas — da ideia ao sistema funcionando.
+
+Atuo também com serviços diversos na área de tecnologia, como:
+
+    Suporte técnico remoto
+
+    Service Desk
+
+    Tarefas administrativas digitais
+
+    Organização de processos e sistemas
+
+    Consultoria em presença digital e identidade visual
+
+Ao longo de minhas experiências profissionais na área da tecnologia desenvolvi um olhar apurado para a estética e a experiência do usuário, prestando atenção minuciosa a cada detalhe visual — de cores e tipografia à harmonia e usabilidade. Além disso, tenho facilidade em utilizar ferramentas de inteligência artificial com pensamento estratégico — sabendo exatamente como tirar o melhor proveito dessas tecnologias para aumentar a produtividade, melhorar processos e oferecer soluções mais inteligentes.
+
+Meu foco é entregar resultados com qualidade, criatividade e eficiência, unindo visual, funcionalidade e tecnologia com um toque de cuidado em cada projeto. ✨
 
 ---
 
