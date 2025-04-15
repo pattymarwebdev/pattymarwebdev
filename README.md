@@ -36,7 +36,7 @@ Criei este espaço para compartilhar meus projetos, estudos e contribuições no
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Portfólio Profissional](https://patriciamarpaulino.github.io/PortfolioPatricia/) | Meu site pessoal com design responsivo e estilo clean | HTML, CSS, JS |
+| [Portfólio Profissional](https://pattymarwebdev.github.io/PortfolioPatricia/) | Meu site pessoal com design responsivo e estilo clean | HTML, CSS, JS |
 | [DevBurguer API](#) | -em breve- API completa com Node.js, PostgreSQL e Sequelize | Node.js, Express, PostgreSQL |
 
 ---
