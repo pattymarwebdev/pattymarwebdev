@@ -53,10 +53,10 @@ Criei este espaço para compartilhar meus projetos, estudos e contribuições no
 
 ## 📫 Conecte-se comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pattymarwebdev)
+- 💻 [LinkedIn](https://www.linkedin.com/in/patriciamarciano)
 - 📧 [E-mail](mailto:pattywebdesigner@gmail.com)
-- 🌐 [Portfólio](https://patriciamarpaulino.github.io/PortfolioPatricia/)
-
+- 🎓 [Portfólio](https://pattymarwebdev.github.io/PortfolioPatricia/)
+- 👨🏻‍💻 [Site](https://pattymarwebdev.github.io/sitebemfeitomultiservicos/)
 ---
 
 <p align="center"><em>“Código com propósito, design com alma.”</em></p>
