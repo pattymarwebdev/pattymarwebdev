@@ -68,10 +68,16 @@ Criei este espaço para compartilhar meus projetos, estudos e contribuições no
 ## 🌟 Estatísticas do GitHub
 
 <div align="center">
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pattymarwebdev&layout=compact&theme=ayu-mirage&langs_count=6&hide=html)
+  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pattymarwebdev&show_icons=true&theme=tokyonight)
 
 </div>
 
 ---
+## 🌟 Linguagens mais utilizadas
 
+<div align="center">
+  
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pattymarwebdev&layout=compact&theme=tokyonight)
+
+</div>
